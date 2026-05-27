@@ -30,7 +30,7 @@ Currently exploring advanced AI systems, LLM applications, and scalable architec
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,html,css,javascript,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,html,css,javascript,mysql,git,github,vscode,langchain" />
 
 </p>
 
